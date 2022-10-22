@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560190617230",
+    "firebase_url": "https://projectventure-7942d-default-rtdb.firebaseio.com",
+    "project_id": "projectventure-7942d",
+    "storage_bucket": "projectventure-7942d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560190617230:android:5dbb61d09553829f807bdf",
+        "android_client_info": {
+          "package_name": "com.example.project_venture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560190617230-813vhgf1c2rged54h8jea9ptm8llojng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePDK0oGVk1e6DYeICzU8K5gLHIMHE8-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560190617230-813vhgf1c2rged54h8jea9ptm8llojng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
